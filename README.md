@@ -1,74 +1,50 @@
- 🌐 Personal Portfolio Website — Vashma Shafiq
+# Vashma Shafiq — Personal Portfolio 🌐
 
-A modern, responsive, and interactive personal portfolio website designed to showcase skills, projects, and professional journey in front-end development.
+A modern, animated and fully responsive personal portfolio website built to showcase my projects, skills and web development capabilities.
 
+## ✨ Features
+- Animated typing effect
+- Custom cursor with glow effect
+- Smooth scroll reveal animations
+- Floating profile card
+- Project popup with GitHub & Live Demo links
+- Fully responsive design
+- Clean and modern dark UI
 
- ✨ Overview
+## 🛠️ Tech Stack
+| Technology | Usage |
+|---|---|
+| HTML5 | Structure |
+| CSS3 | Styling & Animations |
+| JavaScript | Interactivity |
 
-This portfolio website is built to present my work, skills, and projects in a clean and visually appealing way.  
-It reflects my passion for front-end development, modern UI design, and user-focused web experiences.
+## 📁 Project Structure
+Personal_Portfolio/
 
+├── index.html
 
- 🚀 Features
+├── style.css
 
-- Modern and responsive design
--  Smooth animations and interactive UI
--  Custom animated cursor
--  Dynamic project section with popup details
--  Professional About Me section
--  Skills showcase with modern layout
--  Agriculture-based project showcase
--  React.js learning progress highlight
--  Clean and user-friendly interface
+├── script.js
 
+└── avatar.png
+## 📱 Sections
+- **Home** — Hero section with typing animation
+- **About** — Brief introduction
+- **Skills** — Tech stack showcase
+- **Projects** — Project cards with popups
+- **Contact** — Contact information
 
- 🛠️ Technologies Used
+## 🚀 Projects Showcased
+- VS Jwellers — Full Stack E-Commerce (React + PHP + MySQL)
+- Agriculture Website — Frontend
+- Personal Portfolio — Frontend
+- To-Do App — Frontend
+- Calculator — Frontend
 
-- **HTML5** — Structure of the website  
-- **CSS3** — Styling, animations, and responsive design  
-- **JavaScript** — Interactivity and dynamic features  
+## 👩‍💻 Developer
+**Vashma Shafiq** — Web Developer
+React | PHP | MySQL | JavaScript
 
-
- 📂 Projects Included
-
-- 🌐 Personal Portfolio Website  
-- ✅ To-Do App (JavaScript)  
-- 🧮 Calculator App  
-- 🌾 Agriculture Website  
-- ⚛️ React.js Learning Projects (Upcoming)
-
-Each project demonstrates practical implementation of front-end technologies and modern design principles.
-
-
- 🎯 Purpose of This Project
-
-The main purpose of this portfolio is to:
-
-- Showcase front-end development skills  
-- Present real-world projects  
-- Highlight creativity and UI/UX understanding  
-- Provide a professional online presence for clients and recruiters  
-
-
-💡 Learning & Growth
-
-I am continuously improving my skills and currently exploring **React.js** to build more advanced and scalable web applications.  
-More interactive and innovative projects will be added soon.
-
-
- 🤝 Client-Focused Approach
-
-I focus on understanding client requirements and delivering high-quality, responsive, and visually appealing solutions.  
-Client satisfaction and clean, efficient code are always my top priorities.
-
-
-📬 Contact
-
-If you want to collaborate or discuss a project, feel free to connect:
-
-- 📧 Email: vashmashafiq@gmail.com  
-
-
-If you like this portfolio, feel free to give it a ⭐ on GitHub!
-
-© 2026 — Vashma Shafiq | Front-End Developer
+---
+⭐ If you like this portfolio, please give it a star!
